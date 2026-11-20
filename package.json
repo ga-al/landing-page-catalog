@@ -1,5 +1,5 @@
 {
-  "name": "lending-page-catalog",
+  "name": "landing-page-catalog",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -22,5 +22,9 @@
     "eslint-config-next": "16.4.6",
     "tailwindcss": "4.3.3",
     "typescript": "^5"
-  }
+  },
+  "description": "Демонстрационный каталог лендингов: карточки кейсов, фильтры по нише, сроку и бюджету, сортировка и страница каждого кейса. Проекты и цены вымышленные, превью взяты с Unsplash.",
+  "main": "tailwind.config.js",
+  "author": "",
+  "license": "ISC"
 }
